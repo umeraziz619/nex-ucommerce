@@ -11,7 +11,7 @@ const Footer = () => {
             <Image src='/logo.png' height={50} width={150} alt="Not loading img"/>
        
         </a>
-        <p className="mt-2 text-sm text-gray-500">Air plant banjo lyft occupy retro adaptogen indego</p>
+        <p className="mt-2 text-sm text-gray-500">This is Umer Sain store</p>
       </div>
       <div className="flex-grow flex flex-wrap md:pr-20 -mb-10 md:text-left text-center order-first">
         <div className="lg:w-1/4 md:w-1/2 w-full px-4">
@@ -87,7 +87,7 @@ const Footer = () => {
     <div className="bg-gray-100">
       <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
         <p className="text-gray-500 text-sm text-center sm:text-left">© 2021 U Commerce —
-          <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" className="text-gray-600 ml-1" target="_blank">@knyttneve</a>
+          <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" className="text-gray-600 ml-1" target="_blank">@codewithumer</a>
         </p>
         <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
           <a className="text-gray-500">
